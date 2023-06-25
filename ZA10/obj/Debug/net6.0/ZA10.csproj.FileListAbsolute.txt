@@ -1,0 +1,15 @@
+/Users/lisa/Desktop/DZ2/ZA10/bin/Debug/net6.0/ZA10
+/Users/lisa/Desktop/DZ2/ZA10/bin/Debug/net6.0/ZA10.deps.json
+/Users/lisa/Desktop/DZ2/ZA10/bin/Debug/net6.0/ZA10.runtimeconfig.json
+/Users/lisa/Desktop/DZ2/ZA10/bin/Debug/net6.0/ZA10.dll
+/Users/lisa/Desktop/DZ2/ZA10/bin/Debug/net6.0/ZA10.pdb
+/Users/lisa/Desktop/DZ2/ZA10/obj/Debug/net6.0/ZA10.csproj.AssemblyReference.cache
+/Users/lisa/Desktop/DZ2/ZA10/obj/Debug/net6.0/ZA10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Desktop/DZ2/ZA10/obj/Debug/net6.0/ZA10.AssemblyInfoInputs.cache
+/Users/lisa/Desktop/DZ2/ZA10/obj/Debug/net6.0/ZA10.AssemblyInfo.cs
+/Users/lisa/Desktop/DZ2/ZA10/obj/Debug/net6.0/ZA10.csproj.CoreCompileInputs.cache
+/Users/lisa/Desktop/DZ2/ZA10/obj/Debug/net6.0/ZA10.dll
+/Users/lisa/Desktop/DZ2/ZA10/obj/Debug/net6.0/refint/ZA10.dll
+/Users/lisa/Desktop/DZ2/ZA10/obj/Debug/net6.0/ZA10.pdb
+/Users/lisa/Desktop/DZ2/ZA10/obj/Debug/net6.0/ZA10.genruntimeconfig.cache
+/Users/lisa/Desktop/DZ2/ZA10/obj/Debug/net6.0/ref/ZA10.dll
